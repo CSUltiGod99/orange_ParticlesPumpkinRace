@@ -12,7 +12,6 @@ public class carHit : MonoBehaviour {
     
     void Start()
     {
-       a
         
     }
 
@@ -26,8 +25,8 @@ public class carHit : MonoBehaviour {
      {
          car.gameObject
          
-
-
+    
+     }
 
 public void AttackPlayer(GameObject playerPos, Animator anim, NavMeshAgent agent, GameObject self, bool MultiAttack, float inRange, float inView, float AttackRange, bool isBlocking, bool HasSeenPLayer)
     {
@@ -48,7 +47,5 @@ public void AttackPlayer(GameObject playerPos, Animator anim, NavMeshAgent agent
              
              
              
-
-
-
+}
 
